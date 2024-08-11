@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shree-gupta27&label=Profile%20views&color=0e75b6&style=flat" alt="shree-gupta27" /> </p>
 <p> I am a Full Stack Web Developer passionate about exploring new technologies. Currently, I am a final-year student pursuing Electrical Engineering at the Thapar Institute of Engineering and Technology.</p>
-<img src="https://gifdb.com/images/high/hello-cute-cat-box-kns8e4qa95ne2tnv.gif" align="right" width="240">
+<img src="https://github.com/Shree-Gupta27/Shree-Gupta27/blob/main/Hello.gif?raw=true" align="right" width="240">
 <br>
 
 - 🔭 I’m currently working on new technologies and improving existing ones.
